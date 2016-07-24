@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-24T07:00:49.741Z'
+datePublished: '2016-07-24T07:08:21.302Z'
 sourcePath: _posts/2016-07-24-section-1-resurfacing.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f75ebd-9d98-4a0d-93de-434bcdca4fb8.jpg
 author: []
 via: {}
-dateModified: '2016-07-24T06:56:53.997Z'
+dateModified: '2016-07-24T07:08:21.022Z'
 title: Section 1 - Resurfacing
 publisher: {}
 description: Who am I? Why am I here? Where am I going?
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: section-1-resurfacing/index.html
 _type: MediaObject
 
 ---
