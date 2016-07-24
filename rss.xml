@@ -4,8 +4,15 @@
         <description><![CDATA[avatar]]></description>
         <link>https://thegrid.ai/avatar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 06:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 06:38:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avatar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Section 1 - Resurfacing]]></title>
+            <description><![CDATA[<article><h1>Section 1 - Resurfacing</h1><p>Who am I? Why am I here? Where am I going?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc1c27b-1330-4509-9cd8-0d44ae352019.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f75ebd-9d98-4a0d-93de-434bcdca4fb8.jpg</link>
+            <guid isPermaLink="false">65a22f83-aaa1-4654-bb63-71eb3e6fb515</guid>
+            <pubDate>Sun, 24 Jul 2016 06:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Section 3]]></title>
             <description><![CDATA[<article><h1>Section 3</h1><p>Section III is the main course. It begins with a guided initiation session conducted by an Avatar Master.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a0ebea1-7cbd-4380-b1a2-1bc4884a60f4.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f10562f-2773-4568-b60e-fc9b0c92ab79.jpg</link>
             <guid isPermaLink="false">7c82fcc4-a462-4eea-9e4a-b6215e660fb9</guid>
             <pubDate>Sun, 24 Jul 2016 06:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Section 1 - Resurfacing]]></title>
-            <description><![CDATA[<article><h1>Section 1 - Resurfacing</h1><p>Who am I? Why am I here? Where am I going?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f75ebd-9d98-4a0d-93de-434bcdca4fb8.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f75ebd-9d98-4a0d-93de-434bcdca4fb8.jpg</link>
-            <guid isPermaLink="false">65a22f83-aaa1-4654-bb63-71eb3e6fb515</guid>
-            <pubDate>Sun, 24 Jul 2016 06:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
