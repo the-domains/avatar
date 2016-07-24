@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-24T07:00:49.735Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f10562f-2773-4568-b60e-fc9b0c92ab79.jpg
+datePublished: '2016-07-24T07:08:08.661Z'
 author: []
 via: {}
-dateModified: '2016-07-24T06:50:56.694Z'
+dateModified: '2016-07-24T07:08:07.596Z'
 title: What is Avatar?
 publisher: {}
 description: >-
@@ -15,10 +13,9 @@ description: >-
   consciousness with what you want to achieve. You will experience your own
   unique insights and revelations.
 sourcePath: _posts/2016-07-24-what-is-avatar.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: what-is-avatar/index.html
 _type: MediaObject
 
 ---
