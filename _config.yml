@@ -25,3 +25,7 @@ navigation:
     url: 'http://onespiritinterfaith.org/'
     name: One Spirit
     type: external
+  - id: 'http://avatarepc.com'
+    url: 'http://avatarepc.com'
+    name: Star's Edge
+    type: external
