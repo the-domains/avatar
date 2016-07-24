@@ -1,0 +1,14 @@
+layout_spectrum: 0.25551082333549857
+typography_spectrum: 0.953261497663334
+color:
+  brandStrength: 0.11497009079903364
+  lightness: 0.98595687514171
+  saturation: 0.6498120771721005
+  rhythmicContrast: 0.35980954323895276
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: avatar
