@@ -21,3 +21,7 @@ navigation:
     url: 2016-07-24-section-1-resurfacing.html
     name: Section 1 - Resurfacing
     type: content
+  - id: 'http://onespiritinterfaith.org/'
+    url: 'http://onespiritinterfaith.org/'
+    name: One Spirit
+    type: external
