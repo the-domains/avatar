@@ -1,17 +1,27 @@
-layout_spectrum: 0.25551082333549857
-typography_spectrum: 0.953261497663334
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.11497009079903364
-  lightness: 0.98595687514171
   saturation: 0.6498120771721005
-  rhythmicContrast: 0.35980954323895276
+  brandStrength: 0.1149700907990336
+  rhythmicContrast: 0.3598095432389528
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-name: avatar
+  lightness: 0.98595687514171
+typography_spectrum: 0.8899033
 navigation:
   - id: 'http://onespiritinterfaith.org/'
     url: 'http://onespiritinterfaith.org/'
@@ -21,3 +31,5 @@ navigation:
     url: 'http://avatarepc.com'
     name: Star's Edge
     type: external
+layout_spectrum: 0.4172932
+name: avatar
