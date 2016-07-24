@@ -13,10 +13,6 @@ color:
     - '#AEEE00'
 name: avatar
 navigation:
-  - id: 65a22f83-aaa1-4654-bb63-71eb3e6fb515
-    url: 2016-07-24-section-1-resurfacing.html
-    name: Section 1 - Resurfacing
-    type: content
   - id: 'http://onespiritinterfaith.org/'
     url: 'http://onespiritinterfaith.org/'
     name: One Spirit
