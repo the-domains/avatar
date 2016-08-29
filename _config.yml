@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8899033
 color:
   saturation: 0.6498120771721005
   brandStrength: 0.1149700907990336
@@ -21,15 +22,12 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   lightness: 0.98595687514171
-typography_spectrum: 0.8899033
 navigation:
-  - id: 'http://onespiritinterfaith.org/'
-    url: 'http://onespiritinterfaith.org/'
+  - url: 'http://onespiritinterfaith.org/'
     name: One Spirit
     type: external
-  - id: 'http://avatarepc.com'
-    url: 'http://avatarepc.com'
+  - url: 'http://avatarepc.com'
     name: Star's Edge
     type: external
-layout_spectrum: 0.4172932
+layout_spectrum: 0.9489796
 name: avatar
