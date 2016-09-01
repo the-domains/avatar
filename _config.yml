@@ -22,9 +22,5 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   lightness: 0.98595687514171
-navigation:
-  - name: Star's Edge
-    url: 'http://avatarepc.com'
-    type: external
 layout_spectrum: 1
 name: avatar
