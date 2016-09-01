@@ -24,3 +24,7 @@ color:
   lightness: 0.98595687514171
 layout_spectrum: 1
 name: avatar
+navigation:
+  - name: What is Avatar?
+    id: 7c82fcc4-a462-4eea-9e4a-b6215e660fb9
+    type: content
