@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T04:21:21.442Z'
+datePublished: '2016-08-30T04:24:23.080Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T04:20:59.677Z'
+dateModified: '2016-08-30T04:24:22.634Z'
 title: Section II
 publisher: {}
 description: >-
@@ -15,9 +15,11 @@ description: >-
   aware of-extended feeling. This is a nonsensory feeling that does not require
   physical contact. It quiets the mind and dramatically enhances your sense of
   being.
-starred: false
 sourcePath: _posts/2016-08-30-section-ii.md
-_type: Blurb
+hasPage: true
+starred: false
+url: section-ii/index.html
+_type: Article
 
 ---
 # Section II
