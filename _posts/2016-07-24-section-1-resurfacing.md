@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T04:21:25.295Z'
+datePublished: '2016-08-30T04:24:09.583Z'
 sourcePath: _posts/2016-07-24-section-1-resurfacing.md
 author: []
 via: {}
-dateModified: '2016-08-27T19:09:54.847Z'
+dateModified: '2016-08-30T04:24:09.212Z'
 title: Section 1 - Resurfacing
 publisher: {}
 description: Who am I? Why am I here? Where am I going?
