@@ -16,6 +16,9 @@ navigation:
   - name: What is Avatar?
     id: 7c82fcc4-a462-4eea-9e4a-b6215e660fb9
     type: content
+  - name: Section 1 - Resurfacing
+    id: 65a22f83-aaa1-4654-bb63-71eb3e6fb515
+    type: content
 collections:
   - index:
       path: /
