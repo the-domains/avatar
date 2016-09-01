@@ -1,10 +1,12 @@
 ---
-datePublished: '2016-08-30T04:24:23.080Z'
+datePublished: '2016-08-30T04:25:27.355Z'
+sourcePath: _posts/2016-08-30-section-ii.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T04:24:22.634Z'
-title: Section II
+dateModified: '2016-08-30T04:25:27.095Z'
+title: Section 2
 publisher: {}
 description: >-
   On Section II of The Avatar® Course you practice the specific abilities and
@@ -15,14 +17,12 @@ description: >-
   aware of-extended feeling. This is a nonsensory feeling that does not require
   physical contact. It quiets the mind and dramatically enhances your sense of
   being.
-sourcePath: _posts/2016-08-30-section-ii.md
-hasPage: true
 starred: false
 url: section-ii/index.html
 _type: Article
 
 ---
-# Section II
+# Section 2
 
 On Section II of The Avatar(r) Course you practice the specific abilities and tools that are required to successfully manage what you are already experiencing in life. It's an opportunity to get your affairs in order before the big adventure begins. Section II clarifies and expands an extrasensory perceptual channel to the physical universe that you may already be vaguely aware of-extended feeling. This is a nonsensory feeling that does not require physical contact. It quiets the mind and dramatically enhances your sense of being.
 !["With the Section II materials, you start exploring. Little expeditions into the backyard of your consciousness. You practice the specific abilities and tools that are required to successfully manage what you are already experiencing in life. It’s an opportunity to get your affairs in order before the big adventure begins."
