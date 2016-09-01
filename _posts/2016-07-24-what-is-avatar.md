@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-30T04:21:29.102Z'
+datePublished: '2016-08-30T04:22:53.191Z'
 author: []
 via: {}
-dateModified: '2016-08-27T19:08:51.466Z'
+dateModified: '2016-08-30T04:22:52.931Z'
 title: What is Avatar?
 publisher: {}
 description: >-
