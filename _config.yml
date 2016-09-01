@@ -23,11 +23,8 @@ color:
     - '#AEEE00'
   lightness: 0.98595687514171
 navigation:
-  - url: 'http://onespiritinterfaith.org/'
-    name: One Spirit
-    type: external
-  - url: 'http://avatarepc.com'
-    name: Star's Edge
+  - name: Star's Edge
+    url: 'http://avatarepc.com'
     type: external
 layout_spectrum: 1
 name: avatar
