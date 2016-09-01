@@ -22,6 +22,9 @@ navigation:
   - name: Section II
     id: fdea6765-ca38-470a-9eb2-49362cd22c76
     type: content
+  - name: Section 3
+    id: a7514957-e9c4-49d5-a3d5-b6582ce7d57c
+    type: content
 collections:
   - index:
       path: /
