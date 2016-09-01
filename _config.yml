@@ -19,6 +19,9 @@ navigation:
   - name: Section 1 - Resurfacing
     id: 65a22f83-aaa1-4654-bb63-71eb3e6fb515
     type: content
+  - name: Section II
+    id: fdea6765-ca38-470a-9eb2-49362cd22c76
+    type: content
 collections:
   - index:
       path: /
